@@ -1,0 +1,19 @@
+{
+  "name": "agolaccess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agolaccess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanRother/AGOLAccess.git"
+  },
+  "author": "Dean Rother",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanRother/AGOLAccess/issues"
+  },
+  "homepage": "https://github.com/DeanRother/AGOLAccess#readme"
+}
